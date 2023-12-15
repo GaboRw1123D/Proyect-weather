@@ -1,0 +1,62 @@
+body {
+    background-color: #FBEEE6;
+}
+
+.input-group{
+    width: 60%;
+
+}
+
+.title{
+ position: absolute;
+ padding-left: 320px;
+ margin-top: 100px;
+}
+
+.date{
+position: absolute;
+padding-left: 330px;
+margin-top: 160px;
+}
+
+.card-temp{
+position: absolute; 
+padding-left: 320px;
+margin-top: 270px;
+font-size: 50px;   
+}
+
+.desc{
+position: absolute;
+padding-left: 320px;
+margin-top: 340px;
+}
+
+.body{
+position: absolute;
+padding-left:260px;
+margin-top: 260px;
+}
+
+.max-text{
+margin-top: 500px;
+}
+
+.card-body{
+height: 300px;
+}
+
+.col{
+padding-left: 300px;
+}
+
+.img{
+padding-left: 130px;
+}
+
+.button{
+padding-left: 20px;
+}
+.body-2{
+background-color: #E9F7EF ;
+}
